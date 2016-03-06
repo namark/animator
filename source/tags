@@ -1,0 +1,351 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+Add	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void Add(dot_list *x)$/;"	f	language:C++	class:LODL
+Add	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void Add(LODL *x)$/;"	f	language:C++	class:LOLODL
+AddDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void AddDL(dot_list *x)$/;"	f	language:C++	class:LOPDL
+AddDot	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void AddDot(int x, int y)$/;"	f	language:C++	class:dot_list
+addToLeft	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void addToLeft(LODL *x)$/;"	f	language:C++	class:LOLODL
+addToRight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void addToRight(LODL *x)$/;"	f	language:C++	class:LOLODL
+alph	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char red, green, blue, alph;$/;"	m	language:C++	struct:SimpleColor
+Alt	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool Ctrl, Shift, Alt;$/;"	m	language:C++	class:MainWindow
+AMD	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    AttachMusicDialog AMD;$/;"	m	language:C++	class:MainWindow
+attachment	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    char *attachment;$/;"	m	language:C++	class:LOLODL
+AttachMusic	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::AttachMusic()$/;"	f	language:C++	class:MainWindow
+AttachMusic	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void AttachMusic();$/;"	p	language:C++	class:MainWindow
+attlenght	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int attlenght;$/;"	m	language:C++	class:LOLODL
+background	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor background;$/;"	m	language:C++	class:LODL
+background_color	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QColor background_color; \/\/ last selected background color$/;"	m	language:C++	class:MainWindow
+bcur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *cur, *bcur;$/;"	m	language:C++	class:LOLODL
+bkg_coldi	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^                *bkg_coldi; \/\/ nod used$/;"	m	language:C++	class:MainWindow
+blue	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char red, green, blue, alph;$/;"	m	language:C++	struct:SimpleColor
+book	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    LOLODL book; \/\/ stores all animation data$/;"	m	language:C++	class:MainWindow
+bottom	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:dot_list
+bottom	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:LODL
+break_line	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool LineMode, line_drawn, break_line, SketchMode, SelectingMode;$/;"	m	language:C++	class:MainWindow
+changeFrame	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::changeFrame()$/;"	f	language:C++	class:MainWindow
+changeFrame	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void changeFrame();$/;"	p	language:C++	class:MainWindow
+CheckForChngesToSave	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^int MainWindow::CheckForChngesToSave()$/;"	f	language:C++	class:MainWindow
+CheckForChngesToSave	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    int CheckForChngesToSave();$/;"	p	language:C++	class:MainWindow
+closeEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::closeEvent(QCloseEvent *qe)$/;"	f	language:C++	class:MainWindow
+closeEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void closeEvent(QCloseEvent *qe);$/;"	p	language:C++	class:MainWindow
+cmprIMsize	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned int cmprIMsize;$/;"	m	language:C++	class:LODL
+coldi	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    ColorDialog *coldi,$/;"	m	language:C++	class:MainWindow
+color	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor color;$/;"	m	language:C++	class:dot_list
+Color	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Color()$/;"	f	language:C++	class:MainWindow
+Color	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Color();$/;"	p	language:C++	class:MainWindow
+compressReadyImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool compressReadyImage() \/\/ not really compression, just some optimiziation... of  memory... hope it'll work for most of the cases$/;"	f	language:C++	class:LODL
+Copy	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Copy()$/;"	f	language:C++	class:MainWindow
+Copy	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Copy();$/;"	p	language:C++	class:MainWindow
+copyright	/home/nshan/create/c++/qt/animator/source/main.cpp	/^char  copyright[49]="Nshan Gyulyan, 1993 February 5, Armenia, Yerevan";$/;"	v	language:C++
+copy_list	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    LODL copy_list; \/\/ stores drawings that have been selected$/;"	m	language:C++	class:MainWindow
+copy_pointer	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    LODL *copy_pointer; \/\/ points to a frame to be copied$/;"	m	language:C++	class:MainWindow
+count	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int count;$/;"	m	language:C++	class:dot_list
+count	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int count;$/;"	m	language:C++	class:LODL
+crop	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void crop(int l, int t)$/;"	f	language:C++	class:dot_list
+crop	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void crop(int l, int t)$/;"	f	language:C++	class:LODL
+Ctrl	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool Ctrl, Shift, Alt;$/;"	m	language:C++	class:MainWindow
+CUndo	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::CUndo()$/;"	f	language:C++	class:MainWindow
+CUndo	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void CUndo(); \/\/ continious undraw$/;"	p	language:C++	class:MainWindow
+cur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *cur;$/;"	m	language:C++	class:LODL
+cur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *cur, *bcur;$/;"	m	language:C++	class:LOLODL
+cur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    PDL *start, * end, *cur;$/;"	m	language:C++	class:LOPDL
+curcol	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QColor curcol; \/\/ currently selected pen color$/;"	m	language:C++	class:MainWindow
+current_step	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    int current_step; \/\/ current delay between frames in miliseconds$/;"	m	language:C++	class:MainWindow
+cur_size	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    unsigned char cur_size; \/\/ currently selected pen size$/;"	m	language:C++	class:MainWindow
+debuger	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool debuger; \/\/ this is a dummy$/;"	m	language:C++	class:MainWindow
+decompressReadyImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void decompressReadyImage()$/;"	f	language:C++	class:LODL
+Delete	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Delete()$/;"	f	language:C++	class:MainWindow
+Delete	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Delete();$/;"	p	language:C++	class:MainWindow
+DetachMusic	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::DetachMusic()$/;"	f	language:C++	class:MainWindow
+DetachMusic	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void DetachMusic();$/;"	p	language:C++	class:MainWindow
+dot	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        dot(){next=prev=NULL;}$/;"	f	language:C++	struct:dot_list::dot
+dot	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    struct dot$/;"	s	language:C++	class:dot_list
+dot_list	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list( bool sk, QColor c=QColor(0,0,0),unsigned char s=0){start=end=NULL;next=prev=NULL;$/;"	f	language:C++	class:dot_list
+dot_list	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list(dot_list &x)$/;"	f	language:C++	class:dot_list
+dot_list	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list(QColor c=QColor(0,0,0),unsigned char s=0, unsigned char f=0){start=end=NULL;next=prev=NULL;$/;"	f	language:C++	class:dot_list
+dot_list	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^class dot_list$/;"	c	language:C++
+DOT_LIST_H	/home/nshan/create/c++/qt/animator/source/dot_list.h	2;"	d	language:C++
+draw	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void draw(QPainter &painter)$/;"	f	language:C++	class:dot_list
+draw	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void draw(QPainter &painter)$/;"	f	language:C++	class:LODL
+draw	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void draw(QPainter &painter, int r, int g, int b)$/;"	f	language:C++	class:dot_list
+draw	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void draw(QPainter &painter, int r, int g, int b)$/;"	f	language:C++	class:LODL
+drawAndMoveOn	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool drawAndMoveOn(QPainter &painter)$/;"	f	language:C++	class:LOLODL
+drawCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void drawCur(QPainter &painter)$/;"	f	language:C++	class:LOLODL
+drawLast	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void drawLast(QPainter &painter)$/;"	f	language:C++	class:LODL
+drawLast	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void drawLast(QPainter &painter, int cnt=1) \/\/ draw last cnt lines$/;"	f	language:C++	class:dot_list
+drawPrev	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void drawPrev(QPainter &painter)$/;"	f	language:C++	class:LOLODL
+drawShady	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void drawShady(QPainter &painter)$/;"	f	language:C++	class:dot_list
+drawShady	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void drawShady(QPainter &painter)$/;"	f	language:C++	class:LODL
+Empty	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool Empty(){return (start==NULL);}$/;"	f	language:C++	class:dot_list
+empty	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool empty(){return (start==NULL);}$/;"	f	language:C++	class:LOPDL
+end	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot *start, *end;$/;"	m	language:C++	class:dot_list
+end	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *start, *end, *finder;$/;"	m	language:C++	class:LODL
+end	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *start, *end;$/;"	m	language:C++	class:LOLODL
+end	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    PDL *start, * end, *cur;$/;"	m	language:C++	class:LOPDL
+FDlenght	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    int FDlenght; \/\/ lenght of FileDir$/;"	m	language:C++	class:MainWindow
+FileDir	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    char *FileDir; \/\/ directory path extracted from the filename$/;"	m	language:C++	class:MainWindow
+filename	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    char *filename;$/;"	m	language:C++	class:MainWindow
+filtered	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL filtered; \/\/ provides special functianality, that should be used with caution... or maybe shouldn't be used at all...$/;"	m	language:C++	class:LOLODL
+filter_size	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int filter_size(unsigned char s, int *&x, int *&y)\/\/ ?$/;"	f	language:C++	class:LOLODL
+filter_size	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL filter_size(unsigned char s) \/\/overwrites bcur!$/;"	f	language:C++	class:LOLODL
+find	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list* find(unsigned char s)$/;"	f	language:C++	class:LODL
+finder	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *start, *end, *finder;$/;"	m	language:C++	class:LODL
+flags	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char flags;  \/\/ 0 - is_sketch, 1 - , 2 - , 3 - , 4 - , 5 - , 6 - , 7 - ,$/;"	m	language:C++	class:dot_list
+frame_changed	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool frame_changed;$/;"	m	language:C++	class:MainWindow
+getAA	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool getAA(){return !(imageFlags&2);}$/;"	f	language:C++	class:LODL
+getAttch	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    char* getAttch(){return attachment;}$/;"	f	language:C++	class:LOLODL
+getBackground	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor getBackground(){return background;}$/;"	f	language:C++	class:LODL
+getBkgTransImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void getBkgTransImage(int *bti)$/;"	f	language:C++	class:LODL
+getBottom	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getBottom(){return bottom+size\/2;}$/;"	f	language:C++	class:dot_list
+getBottotm	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getBottotm(){return bottom;}$/;"	f	language:C++	class:LODL
+getCompressedImageSize	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsint getCompressedImageSize(){return cmprIMsize;}$/;"	f	language:C++	class:LODL
+GetCount	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int GetCount(){return count;}$/;"	f	language:C++	class:LODL
+GetCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list * GetCur(){return cur->to;}$/;"	f	language:C++	class:LOPDL
+getCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *getCur(){return cur;}$/;"	f	language:C++	class:LODL
+getCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *getCur(){return cur;}$/;"	f	language:C++	class:LOLODL
+getEnd	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *getEnd(){return end;}$/;"	f	language:C++	class:LODL
+getEnd	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *getEnd(){return end;}$/;"	f	language:C++	class:LOLODL
+getFirst	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot* getFirst(){return start;}$/;"	f	language:C++	class:dot_list
+getFlags	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    char getFlags(){ return flags; }$/;"	f	language:C++	class:dot_list
+getHeight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getHeight(){return bottom-top+size;}$/;"	f	language:C++	class:dot_list
+getHeight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getHeight(){return bottom-top;}$/;"	f	language:C++	class:LODL
+getIMheight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned int getIMheight(){return IMheight;}$/;"	f	language:C++	class:LODL
+getIMwidth	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned int getIMwidth(){return IMwidth;}$/;"	f	language:C++	class:LODL
+getLast	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot* getLast(){return end;}$/;"	f	language:C++	class:dot_list
+getLeft	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getLeft(){return left-size\/2;}$/;"	f	language:C++	class:dot_list
+getLeft	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getLeft(){return left;}$/;"	f	language:C++	class:LODL
+getMaxBottom	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getMaxBottom()$/;"	f	language:C++	class:LOLODL
+getMaxRight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getMaxRight()$/;"	f	language:C++	class:LOLODL
+getMinLeft	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getMinLeft()$/;"	f	language:C++	class:LOLODL
+getMinTop	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getMinTop()$/;"	f	language:C++	class:LOLODL
+getReadyImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int *getReadyImage(){return (int *)imageBuf;}$/;"	f	language:C++	class:LODL
+getRGB	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void getRGB(unsigned char* x)$/;"	f	language:C++	class:dot_list
+getRight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getRight(){return right+size\/2;}$/;"	f	language:C++	class:dot_list
+getRight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getRight(){return right;}$/;"	f	language:C++	class:LODL
+getShadeyImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void getShadeyImage(uchar *destination, unsigned int width_limit = -1, unsigned int height_limit = -1)$/;"	f	language:C++	class:LODL
+getSize	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getSize(){return size;}$/;"	f	language:C++	class:LOLODL
+getSize	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char getSize(){return size;}$/;"	f	language:C++	class:dot_list
+getStep	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getStep(){return step;}$/;"	f	language:C++	class:LOLODL
+getTop	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getTop(){return top-size\/2;}$/;"	f	language:C++	class:dot_list
+getTop	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getTop(){return top;}$/;"	f	language:C++	class:LODL
+getWidth	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getWidth(){return right-left+size;}$/;"	f	language:C++	class:dot_list
+getWidth	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int getWidth(){return right-left;}$/;"	f	language:C++	class:LODL
+green	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char red, green, blue, alph;$/;"	m	language:C++	struct:SimpleColor
+handleCompressionAfterRemoval	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void handleCompressionAfterRemoval(bool loop=true)$/;"	f	language:C++	class:LOLODL
+handleCompressionBackwords	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool handleCompressionBackwords(bool loop=true) \/\/ called after moveing backwords$/;"	f	language:C++	class:LOLODL
+handleCompressionForwords	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool handleCompressionForwords(bool loop=true) \/\/ called before moving forwords(onwords)$/;"	f	language:C++	class:LOLODL
+imageBuf	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    Byte *imageBuf; \/\/ for performance$/;"	m	language:C++	class:LODL
+imageFlags	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char imageFlags;\/\/ 0 - Image is compressed, 1 - is not antialiased, 2 - , 3 - , 4 - , 5 - , 6 - , 7 -$/;"	m	language:C++	class:LODL
+imageIsCompressed	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool imageIsCompressed(){ return imageFlags&1;}$/;"	f	language:C++	class:LODL
+IMheight	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned int IMwidth, IMheight;$/;"	m	language:C++	class:LODL
+IMwidth	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned int IMwidth, IMheight;$/;"	m	language:C++	class:LODL
+Init	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Init(char *fn, char* dir)$/;"	f	language:C++	class:MainWindow
+Init	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Init(char *fn, char *dir=NULL);$/;"	p	language:C++	class:MainWindow
+insertFrame	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::insertFrame()$/;"	f	language:C++	class:MainWindow
+insertFrame	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void insertFrame();$/;"	p	language:C++	class:MainWindow
+invert	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void invert()$/;"	f	language:C++	class:LODL
+invert	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void invert(int i, int correction)$/;"	f	language:C++	class:dot_list
+isEmpty	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool isEmpty(){return start==0 || (start->getEnd()==0 && size==1);}$/;"	f	language:C++	class:LOLODL
+IsInRect	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool IsInRect(int t, int b, int l, int r)$/;"	f	language:C++	class:dot_list
+IsInRect	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool IsInRect(QRect rect)$/;"	f	language:C++	class:dot_list
+isSketch	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool isSketch(){ return flags&1; }$/;"	f	language:C++	class:dot_list
+keyPressEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::keyPressEvent(QKeyEvent *ke)$/;"	f	language:C++	class:MainWindow
+keyPressEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void keyPressEvent(QKeyEvent *ke);$/;"	p	language:C++	class:MainWindow
+keyReleaseEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::keyReleaseEvent(QKeyEvent *ke)$/;"	f	language:C++	class:MainWindow
+keyReleaseEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void keyReleaseEvent(QKeyEvent *ke);$/;"	p	language:C++	class:MainWindow
+LD	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    LoadingDialog *LD;$/;"	m	language:C++	class:MainWindow
+left	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:dot_list
+left	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:LODL
+LineMode	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool LineMode, line_drawn, break_line, SketchMode, SelectingMode;$/;"	m	language:C++	class:MainWindow
+LineToggle	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::LineToggle(bool on)$/;"	f	language:C++	class:MainWindow
+LineToggle	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void LineToggle(bool on);$/;"	p	language:C++	class:MainWindow
+line_drawn	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool LineMode, line_drawn, break_line, SketchMode, SelectingMode;$/;"	m	language:C++	class:MainWindow
+LMB	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool RMB, LMB;$/;"	m	language:C++	class:MainWindow
+Load	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool Load(const char *filename)$/;"	f	language:C++	class:LOLODL
+Load	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Load(bool no_check)$/;"	f	language:C++	class:MainWindow
+Load	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Load(bool no_check=false);$/;"	p	language:C++	class:MainWindow
+LoadingDialog	/home/nshan/create/c++/qt/animator/source/loadingdialog.cpp	/^LoadingDialog::LoadingDialog(char* dir,int dir_len,QWidget *parent) :$/;"	f	language:C++	class:LoadingDialog
+LODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL( unsigned int imw, unsigned int imh, QColor bkgrnd) \/\/ QColor here can be exchanged with SimpleColor$/;"	f	language:C++	class:LODL
+LODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL(unsigned int imw=621, unsigned int imh=411, unsigned char bkg_r=255, unsigned char bkg_g=255, unsigned char bkg_b=255)$/;"	f	language:C++	class:LODL
+LODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^class LODL$/;"	c	language:C++
+LOLODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LOLODL(){start=end=cur=0; size=0; step=50; attachment=0; attlenght=0;}$/;"	f	language:C++	class:LOLODL
+LOLODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^class LOLODL$/;"	c	language:C++
+LOPDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LOPDL(){start=end=cur=NULL;}$/;"	f	language:C++	class:LOPDL
+LOPDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^class LOPDL$/;"	c	language:C++
+main	/home/nshan/create/c++/qt/animator/source/main.cpp	/^int main(int argc, char *argv[])$/;"	f	language:C++
+MainWindow	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^MainWindow::MainWindow(QWidget *parent) :$/;"	f	language:C++	class:MainWindow
+MainWindow	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    explicit MainWindow(QWidget *parent = 0);$/;"	p	language:C++	class:MainWindow
+MainWindow	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^class MainWindow : public QMainWindow$/;"	c	language:C++
+MAINWINDOW_H	/home/nshan/create/c++/qt/animator/source/mainwindow.h	2;"	d	language:C++
+minimalize	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void minimalize(bool crop=true)$/;"	f	language:C++	class:LODL
+MM	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool MM; \/\/ true when drawing$/;"	m	language:C++	class:MainWindow
+MMrepaint	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::MMrepaint()$/;"	f	language:C++	class:MainWindow
+MMrepaint	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void MMrepaint(); \/\/ speacial repaint function(connected to a timer) to improove drawing performance... i hope... GRRRMRRRIAAHHH!!! this turned out greeaat!..$/;"	p	language:C++	class:MainWindow
+MMrepaint_count	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    int MMrepaint_count; \/\/ how many new dotlist are there to repaint, since the MMrepaint_timer triggered$/;"	m	language:C++	class:MainWindow
+MMrepaint_timer	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^           MMrepaint_timer; \/\/ timer for repainting when drawing(it's too heavy to repaint each time the mouse move event occurs)$/;"	m	language:C++	class:MainWindow
+mouseMoveEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::mouseMoveEvent(QMouseEvent *me)$/;"	f	language:C++	class:MainWindow
+mouseMoveEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void mouseMoveEvent(QMouseEvent *me);$/;"	p	language:C++	class:MainWindow
+mousePressEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::mousePressEvent(QMouseEvent *me)$/;"	f	language:C++	class:MainWindow
+mousePressEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void mousePressEvent(QMouseEvent *me);$/;"	p	language:C++	class:MainWindow
+mouseReleaseEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::mouseReleaseEvent(QMouseEvent *me)$/;"	f	language:C++	class:MainWindow
+mouseReleaseEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void mouseReleaseEvent(QMouseEvent *me);$/;"	p	language:C++	class:MainWindow
+move	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void move(int x, int y)$/;"	f	language:C++	class:dot_list
+moveBack	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool moveBack()$/;"	f	language:C++	class:LOLODL
+moveOn	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool moveOn()$/;"	f	language:C++	class:LODL
+moveOn	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool moveOn()$/;"	f	language:C++	class:LOLODL
+moveOn	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool moveOn()$/;"	f	language:C++	class:LOPDL
+moveThose	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveThose(int x, int y)$/;"	f	language:C++	class:LODL
+moveThose	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveThose(int x, int y)$/;"	f	language:C++	class:LOPDL
+moveThoseX	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveThoseX(int x)$/;"	f	language:C++	class:LODL
+moveThoseX	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveThoseX(int x)$/;"	f	language:C++	class:LOPDL
+moveThoseY	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveThoseY(int y)$/;"	f	language:C++	class:LODL
+moveThoseY	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveThoseY(int y)$/;"	f	language:C++	class:LOPDL
+moveX	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveX(int x)$/;"	f	language:C++	class:dot_list
+moveY	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void moveY(int y)$/;"	f	language:C++	class:dot_list
+mus	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QSound *mus;$/;"	m	language:C++	class:MainWindow
+New	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::New()$/;"	f	language:C++	class:MainWindow
+New	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void New();$/;"	p	language:C++	class:MainWindow
+new_file	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool new_file; \/\/ new file was created$/;"	m	language:C++	class:MainWindow
+next	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        dot* next, *prev;$/;"	m	language:C++	struct:dot_list::dot
+next	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        PDL *next, *prev;$/;"	m	language:C++	struct:LOPDL::PDL
+next	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *next, *prev;$/;"	m	language:C++	class:dot_list
+next	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *next, *prev;$/;"	m	language:C++	class:LODL
+Next	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Next()$/;"	f	language:C++	class:MainWindow
+Next	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Next();$/;"	p	language:C++	class:MainWindow
+Open	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Open()$/;"	f	language:C++	class:MainWindow
+Open	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Open();$/;"	p	language:C++	class:MainWindow
+operator !=	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        bool operator!=(dot &d) { return x!=d.x || y!=d.y; }$/;"	f	language:C++	struct:dot_list::dot
+operator !=	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool operator !=(dot_list &dl)$/;"	f	language:C++	class:dot_list
+operator !=	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool operator!=(LODL &l)$/;"	f	language:C++	class:LODL
+operator !=	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool operator!=(LOLODL &l)$/;"	f	language:C++	class:LOLODL
+operator !=	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool operator!=(SimpleColor &s) {return red!=s.red || green!=s.green || blue!=s.blue || alph!=s.alph;}$/;"	f	language:C++	struct:SimpleColor
+operator =	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL& operator=(LODL &x)  \/\/ deal with self assignment? i'm not sure if it's important...$/;"	f	language:C++	class:LODL
+operator =	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor & operator=(QColor & c)$/;"	f	language:C++	struct:SimpleColor
+operator =	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor & operator=(SimpleColor & c)$/;"	f	language:C++	struct:SimpleColor
+operator ==	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        bool operator==(dot &d) { return x==d.x && y==d.y; }$/;"	f	language:C++	struct:dot_list::dot
+outer_layer	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QPixmap outer_layer; \/\/ some temporary stuff like selector rect are drawn here, to be easily removed...$/;"	m	language:C++	class:MainWindow
+page	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    int page; \/\/ stores the current page number$/;"	m	language:C++	class:MainWindow
+paintEvent	/home/nshan/create/c++/qt/animator/source/loadingdialog.cpp	/^void LoadingDialog::paintEvent(QPaintEvent *pe)$/;"	f	language:C++	class:LoadingDialog
+paintEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::paintEvent(QPaintEvent *pe)$/;"	f	language:C++	class:MainWindow
+paintEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void paintEvent(QPaintEvent *pe);$/;"	p	language:C++	class:MainWindow
+Paste	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Paste()$/;"	f	language:C++	class:MainWindow
+Paste	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Paste();$/;"	p	language:C++	class:MainWindow
+pasted	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool Redone, pasted;$/;"	m	language:C++	class:MainWindow
+PDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        PDL(){to=NULL; next=prev=NULL;}$/;"	f	language:C++	struct:LOPDL::PDL
+PDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        PDL(dot_list *t){to=t, next=prev=NULL;}$/;"	f	language:C++	struct:LOPDL::PDL
+PDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    struct PDL$/;"	s	language:C++	class:LOPDL
+PDlenght	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    int PDlenght; \/\/ lenght of ProgDir$/;"	m	language:C++	class:MainWindow
+pen	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    QPen pen; \/\/ a little Qt optimization, can be removed easyly$/;"	m	language:C++	class:dot_list
+pip	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool pip; \/\/ the pippete tool active$/;"	m	language:C++	class:MainWindow
+pix	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QPixmap pix; \/\/ main pixmap animation is drawn on$/;"	m	language:C++	class:MainWindow
+Play	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Play()$/;"	f	language:C++	class:MainWindow
+Play	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Play();$/;"	p	language:C++	class:MainWindow
+prect	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^const QRect &MainWindow::prect() const$/;"	f	language:C++	class:MainWindow
+prect	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    const QRect& prect() const;$/;"	p	language:C++	class:MainWindow
+prev	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        dot* next, *prev;$/;"	m	language:C++	struct:dot_list::dot
+prev	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        PDL *next, *prev;$/;"	m	language:C++	struct:LOPDL::PDL
+prev	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *next, *prev;$/;"	m	language:C++	class:dot_list
+prev	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *next, *prev;$/;"	m	language:C++	class:LODL
+Prev	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Prev()$/;"	f	language:C++	class:MainWindow
+Prev	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Prev();$/;"	p	language:C++	class:MainWindow
+ProgDir	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    char *ProgDir; \/\/ directory path extracted from the argv[0], i assume this is the program directory$/;"	m	language:C++	class:MainWindow
+pr_alpha	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char pr_alpha;$/;"	m	language:C++	class:dot_list
+red	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char red, green, blue, alph;$/;"	m	language:C++	struct:SimpleColor
+Redo	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Redo()$/;"	f	language:C++	class:MainWindow
+Redo	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Redo();$/;"	p	language:C++	class:MainWindow
+redobook	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    LOLODL redobook; \/\/ stores things that have been undone$/;"	m	language:C++	class:MainWindow
+Redone	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool Redone, pasted;$/;"	m	language:C++	class:MainWindow
+Rem	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool Rem()$/;"	f	language:C++	class:LODL
+RemCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool RemCur()$/;"	f	language:C++	class:LODL
+RemCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool RemCur()$/;"	f	language:C++	class:LOLODL
+RemDot	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool RemDot()$/;"	f	language:C++	class:dot_list
+RemGiven	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool RemGiven(dot_list *x)  \/\/ heyyy, dont pass x that is not fom the list >:[$/;"	f	language:C++	class:LODL
+RemGiven	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool RemGiven(LOPDL &sel)$/;"	f	language:C++	class:LODL
+RemGiven	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list * RemGiven(dot *g)$/;"	f	language:C++	class:dot_list
+RemSketches	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void RemSketches()$/;"	f	language:C++	class:LODL
+repainted_by_me	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool repainted_by_me; \/\/ so that nothing heavy happens when the window is moved or covered or stuff..$/;"	m	language:C++	class:MainWindow
+resetCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void resetCur()$/;"	f	language:C++	class:LOLODL
+ResetTools	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::ResetTools()$/;"	f	language:C++	class:MainWindow
+ResetTools	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void ResetTools();$/;"	p	language:C++	class:MainWindow
+resizeEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::resizeEvent(QResizeEvent *re)$/;"	f	language:C++	class:MainWindow
+resizeEvent	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void resizeEvent(QResizeEvent *re);$/;"	p	language:C++	class:MainWindow
+right	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:dot_list
+right	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:LODL
+RMB	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool RMB, LMB;$/;"	m	language:C++	class:MainWindow
+Save	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void Save(const char * filename)$/;"	f	language:C++	class:LOLODL
+Save	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Save(bool no_check)$/;"	f	language:C++	class:MainWindow
+SAVE	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    enum {SAVE, THATS_FINE, WAIT_A_MINUTE}; \/\/ states retuned by following function$/;"	e	language:C++	enum:MainWindow::__anon1
+Save	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Save(bool no_check=false);$/;"	p	language:C++	class:MainWindow
+SaveAs	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::SaveAs()$/;"	f	language:C++	class:MainWindow
+SaveAs	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void SaveAs();$/;"	p	language:C++	class:MainWindow
+sdi	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    SizeDialog *sdi;$/;"	m	language:C++	class:MainWindow
+selected	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool selected,$/;"	m	language:C++	class:MainWindow
+selected_is_black	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^         selected_is_black; \/\/ the selcted drawing is flickering(between white and black) according to this$/;"	m	language:C++	class:MainWindow
+SelectingMode	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool LineMode, line_drawn, break_line, SketchMode, SelectingMode;$/;"	m	language:C++	class:MainWindow
+SelectingToggle	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::SelectingToggle(bool on)$/;"	f	language:C++	class:MainWindow
+SelectingToggle	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void SelectingToggle(bool on);$/;"	p	language:C++	class:MainWindow
+selecting_list	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    LOPDL selecting_list; \/\/ points to drawings that have been selected$/;"	m	language:C++	class:MainWindow
+SelectInRect	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool SelectInRect(LOPDL &sel, int t, int b, int l, int r)$/;"	f	language:C++	class:LODL
+SelectInRect	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool SelectInRect(LOPDL &sel, QRect rect)$/;"	f	language:C++	class:LODL
+SelectInRect	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int SelectInRect(dot_list **sel, int t, int b, int l, int r)$/;"	f	language:C++	class:LODL
+SelectInRect	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int SelectInRect(dot_list **sel, QRect rect)$/;"	f	language:C++	class:LODL
+selection_color_change_timer	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^           selection_color_change_timer, \/\/ timer for animating the selection effect$/;"	m	language:C++	class:MainWindow
+selector	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QRect selector; \/\/ selector rectangle$/;"	m	language:C++	class:MainWindow
+set	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void set(unsigned char r, unsigned char g, unsigned char b, unsigned char a=255)$/;"	f	language:C++	struct:SimpleColor
+setAA	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setAA(bool value=true){value?imageFlags&~2:imageFlags|=2;}$/;"	f	language:C++	class:LODL
+setAttch	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setAttch(char* str)$/;"	f	language:C++	class:LOLODL
+setBackground	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setBackground(QColor x){ background=x;}$/;"	f	language:C++	class:LODL
+setBackgroundColor	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::setBackgroundColor()$/;"	f	language:C++	class:MainWindow
+setBackgroundColor	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void setBackgroundColor();$/;"	p	language:C++	class:MainWindow
+setCompressedImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setCompressedImage(const unsigned char *ci,const unsigned int s)$/;"	f	language:C++	class:LODL
+setCur	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setCur()$/;"	f	language:C++	class:LOLODL
+setLastDot	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setLastDot(int x, int y)$/;"	f	language:C++	class:dot_list
+setReadyImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    bool setReadyImage(QImage &im)$/;"	f	language:C++	class:LODL
+setReadyImage	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setReadyImage(unsigned int w,unsigned int h, int* ARGBarray)$/;"	f	language:C++	class:LODL
+setStep	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setStep(int s) {step=s;}$/;"	f	language:C++	class:LOLODL
+setToScketch	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void setToScketch() { flags=flags|1; } \/\/ don't think i'll need, but anyways...$/;"	f	language:C++	class:dot_list
+shade	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool shade;$/;"	m	language:C++	class:MainWindow
+Shift	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool Ctrl, Shift, Alt;$/;"	m	language:C++	class:MainWindow
+ShImage	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QImage ShImage; \/\/ stores the shady image$/;"	m	language:C++	class:MainWindow
+SimpleColor	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor(){red=green=blue=alph=0;}$/;"	f	language:C++	struct:SimpleColor
+SimpleColor	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    SimpleColor(unsigned char r, unsigned char g, unsigned char b, unsigned char a=255)$/;"	f	language:C++	struct:SimpleColor
+SimpleColor	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^struct SimpleColor$/;"	s	language:C++
+size	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int size, step;$/;"	m	language:C++	class:LOLODL
+size	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned char size;$/;"	m	language:C++	class:dot_list
+SizeOfPen	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::SizeOfPen()$/;"	f	language:C++	class:MainWindow
+SizeOfPen	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void SizeOfPen();$/;"	p	language:C++	class:MainWindow
+sketchlist	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LOPDL sketchlist;$/;"	m	language:C++	class:LODL
+SketchMode	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    bool LineMode, line_drawn, break_line, SketchMode, SelectingMode;$/;"	m	language:C++	class:MainWindow
+SketchToggle	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::SketchToggle(bool on)$/;"	f	language:C++	class:MainWindow
+SketchToggle	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void SketchToggle(bool on);$/;"	p	language:C++	class:MainWindow
+start	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot *start, *end;$/;"	m	language:C++	class:dot_list
+start	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    dot_list *start, *end, *finder;$/;"	m	language:C++	class:LODL
+start	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    LODL *start, *end;$/;"	m	language:C++	class:LOLODL
+start	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    PDL *start, * end, *cur;$/;"	m	language:C++	class:LOPDL
+step	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int size, step;$/;"	m	language:C++	class:LOLODL
+switchAA	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void switchAA(){imageFlags^=2;}$/;"	f	language:C++	class:LODL
+THATS_FINE	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    enum {SAVE, THATS_FINE, WAIT_A_MINUTE}; \/\/ states retuned by following function$/;"	e	language:C++	enum:MainWindow::__anon1
+timer	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    QTimer timer, \/\/ the actual animation timer$/;"	m	language:C++	class:MainWindow
+to	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        dot_list *to;$/;"	m	language:C++	struct:LOPDL::PDL
+TogglePipette	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::TogglePipette(bool p)$/;"	f	language:C++	class:MainWindow
+TogglePipette	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void TogglePipette(bool p);$/;"	p	language:C++	class:MainWindow
+toHex	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    unsigned int toHex()$/;"	f	language:C++	struct:SimpleColor
+top	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:dot_list
+top	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    int top, bottom, left, right;$/;"	m	language:C++	class:LODL
+ui	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    Ui::MainWindow *ui;$/;"	m	language:C++	class:MainWindow
+Ui	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^namespace Ui {$/;"	n	language:C++
+Undo	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^void MainWindow::Undo()$/;"	f	language:C++	class:MainWindow
+Undo	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    void Undo();$/;"	p	language:C++	class:MainWindow
+WAIT_A_MINUTE	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    enum {SAVE, THATS_FINE, WAIT_A_MINUTE}; \/\/ states retuned by following function$/;"	e	language:C++	enum:MainWindow::__anon1
+writeImageToFile	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void writeImageToFile(FILE *file)$/;"	f	language:C++	class:LODL
+writeTo	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    void writeTo(FILE* file)$/;"	f	language:C++	class:dot_list
+x	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        int x, y;$/;"	m	language:C++	struct:dot_list::dot
+y	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        int x, y;$/;"	m	language:C++	struct:dot_list::dot
+~dot	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        ~dot(){delete next;}$/;"	f	language:C++	struct:dot_list::dot
+~dot_list	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    ~dot_list(){delete start; delete next;}$/;"	f	language:C++	class:dot_list
+~LoadingDialog	/home/nshan/create/c++/qt/animator/source/loadingdialog.cpp	/^LoadingDialog::~LoadingDialog()$/;"	f	language:C++	class:LoadingDialog
+~LODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    ~LODL(){delete start; delete next; delete [] imageBuf; imageBuf=0; start=end=cur=finder=0; top=bottom=left=right=count=0;}$/;"	f	language:C++	class:LODL
+~LOLODL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    ~LOLODL(){delete start; delete [] attachment; start=end=cur=0; attachment=0; size=0; attlenght=0;}$/;"	f	language:C++	class:LOLODL
+~LOPDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^    ~LOPDL(){delete start; start=end=cur=NULL;}$/;"	f	language:C++	class:LOPDL
+~MainWindow	/home/nshan/create/c++/qt/animator/source/mainwindow.cpp	/^MainWindow::~MainWindow()$/;"	f	language:C++	class:MainWindow
+~MainWindow	/home/nshan/create/c++/qt/animator/source/mainwindow.h	/^    ~MainWindow();$/;"	p	language:C++	class:MainWindow
+~PDL	/home/nshan/create/c++/qt/animator/source/dot_list.h	/^        ~PDL(){delete next;}$/;"	f	language:C++	struct:LOPDL::PDL

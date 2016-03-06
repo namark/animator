@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AttachMusicDialog</class>
+ <widget class="QDialog" name="AttachMusicDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>355</width>
+    <height>41</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>355</width>
+    <height>41</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>355</width>
+    <height>41</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Music</string>
+  </property>
+  <widget class="QPushButton" name="ATTACH_BTN">
+   <property name="geometry">
+    <rect>
+     <x>243</x>
+     <y>10</y>
+     <width>50</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Attach</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="CANCEL_BTN">
+   <property name="geometry">
+    <rect>
+     <x>299</x>
+     <y>10</y>
+     <width>50</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Cancel</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="FILENAME">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>221</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

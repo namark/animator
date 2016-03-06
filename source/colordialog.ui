@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ColorDialog</class>
+ <widget class="QDialog" name="ColorDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>320</width>
+    <height>149</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>320</width>
+    <height>149</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>320</width>
+    <height>149</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Color</string>
+  </property>
+  <widget class="QLineEdit" name="Red">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>120</y>
+     <width>30</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="maximumSize">
+    <size>
+     <width>30</width>
+     <height>20</height>
+    </size>
+   </property>
+   <property name="maxLength">
+    <number>3</number>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="Green">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>120</y>
+     <width>30</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>3</number>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="Blue">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>120</y>
+     <width>30</width>
+     <height>20</height>
+    </rect>
+   </property>
+   <property name="maxLength">
+    <number>3</number>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="Exit">
+   <property name="geometry">
+    <rect>
+     <x>174</x>
+     <y>120</y>
+     <width>141</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
