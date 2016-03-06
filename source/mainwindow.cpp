@@ -735,7 +735,7 @@ void MainWindow::Load(bool no_check)
         if(book.getAttch()) mus=new QSound(QString(FileDir)+book.getAttch());
         else mus=0;
 
-        copy_pointer=0;
+        copy_pointer=nullptr;
 
         if(book.getEnd())background_color=QColor(book.getEnd()->getBackground().toHex()); // get from book
         else background_color=QColor(0xFFFFFFFF);
@@ -812,6 +812,8 @@ void MainWindow::Delete()
     else
     if(Shift || QMessageBox::question(this,"Delete", "Delete? \n(Hold shift key to avoid this question.)", "uhu", "not really")==0)
     {
+        if(book.getCur() == copy_pointer)
+            copy_pointer = nullptr;
         redobook.RemCur();
         book.RemCur();
         book.handleCompressionAfterRemoval();
@@ -932,10 +934,13 @@ void MainWindow::Paste()
 {
     if(!selected)
     {
-        *(book.getCur())=*copy_pointer;
-        book.getCur()->decompressReadyImage();
-        frame_changed=true;
-        update(prect());
+        if(copy_pointer)
+        {
+            *(book.getCur())=*copy_pointer;
+            book.getCur()->decompressReadyImage();
+            frame_changed=true;
+            update(prect());
+        }
     }
     else if(copy_list.GetCount())
     {
@@ -1084,7 +1089,7 @@ void MainWindow::New()
     ui->FN_LABEL->setText(filename);
     delete mus;
     mus=0;
-    copy_pointer=0;
+    copy_pointer=nullptr;
     page=0;
     ui->PAGE_LABEL->setText(QString::number(page));
     current_step=50;
